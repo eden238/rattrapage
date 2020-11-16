@@ -6,4 +6,4 @@ $ npm run start
 
 $ cd front
 $ npm install
-$ npm run dev# rattrapage
+$ npm run dev
